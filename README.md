@@ -15,6 +15,9 @@
    ```
    latexmk -c
    ```
+## 下载地址
+
+- GitHub Releases：https://github.com/LaureatePoet/HFUT_Course_Report_Template/releases
 
 ## 反馈问题
 
@@ -36,9 +39,11 @@
 ## 更多资料
 
 - [一份简短的关于 LaTeX 安装的介绍](https://github.com/OsbertWang/install-latex)
-- [一份不太简短的$LaTeXe$介绍【中文资料】](http://mirrors.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf)
+- [一份不太简短的 LaTeXe 介绍【中文资料】](http://mirrors.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf)
+- [常见问题 FAQ](https://github.com/LaureatePoet/HFUT_Course_Report_Template/wiki/常见问题)
+- [参与开发](https://github.com/LaureatePoet/HFUT_Course_Report_Template/wiki/参与开发)
 
 ## 写在后面
 
 - 作者能力有限，此模板还有诸多改进之处，希望有能力的同学能够进行修改并参与开发
-- $\LaTeX$有诸多优势，希望对它感兴趣的同学能够尽快建立一个组织或者团体开发我校$\LaTeX$相关模板，使之规范化，个人的力量总是有限的，Happy LaTeXing！
+- LaTeX 有诸多优势，希望对它感兴趣的同学能够尽快建立一个组织或者团体开发我校 LaTeX 相关模板，使之规范化，个人的力量总是有限的，Happy LaTeXing！
