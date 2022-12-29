@@ -389,7 +389,7 @@
 			\hline
 			\zihao{4}\textbf {\makecell[{{p{2em}}}]{设计题目}} &  \centering {\zihao{-4}\textbf{\@title}} & \zihao{4}\textbf{成绩} &  \\
 			\hline
-			\zihao{4}\textbf {\makecell[{{p{1em}}}]{\quad \\ \quad \\ \quad 课程设计主要内容 \quad \\ \quad \\ \quad}} & \multicolumn{3} {p{33em}|}
+			\zihao{4}\textbf {\makecell[{{p{1em}}}]{\quad \\ \quad \\ \quad 课程设计主要内容 \quad \\ \quad \\ \quad}} & \multicolumn{3} {m{33em}|}
 			{\zihao{-4} \qquad
 				\hfutrp@tokens@maincontent
 			} \\
